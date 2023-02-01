@@ -4,7 +4,7 @@ This repository is a list of links to and files from my previous projects on AI/
 ## [Number Reader](https://github.com/EgeEken/Number-Reader)
 An AI program that can be trained to read numbers on a 16x16 black and white image.
 
-Weights and biases for a 2 layer neural network model with 83% accuracy are in the linked page, as well as a training dataset of 1000 labeled images + 200 for testing
+Weights and biases for a 2 layer neural network model and a 3 layer deep neural network model with up to 83% accuracy are in the linked page, as well as a training dataset of 1000 labeled images + 200 for testing
 <details><summary>Results: (click here to open)</summary>
 <p>
 
