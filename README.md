@@ -12,3 +12,16 @@ Weights and biases for a 2 layer neural network model and a 3 layer deep neural 
 
 </p>
 </details>
+
+## [Minecraft Player](https://github.com/EgeEken/Minecraft-Player)
+An AI program that can be trained to play Minecraft in real time.
+
+Weights and biases will be on the linked page once the project is complete.
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+(to be added)
+
+</p>
+</details>
