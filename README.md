@@ -23,6 +23,7 @@ Weights and biases will be on the linked page once the project is complete.
 
 ![image](https://github.com/EgeEken/AI/assets/96302110/281fbeb0-48d2-4f4d-953b-1e3b963bb300)
 ![image](https://github.com/EgeEken/AI/assets/96302110/a41c946a-a9d7-4583-ba30-a7b4c7b54a4e)
+![output](https://github.com/EgeEken/AI/assets/96302110/e6e88130-f85a-409b-abc5-890e7dbd1a9a)
 
 </p>
 </details>
