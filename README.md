@@ -28,6 +28,19 @@ Weights and biases will be on the linked page once the project is complete.
 </p>
 </details>
 
+### [Robot Simulation](https://github.com/EgeEken/AI-PaintWars)
+An AI based solution for a simulated robotics project in my "AI and Games" class
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+![image](https://github.com/EgeEken/AI-PaintWars/assets/96302110/fbdaa911-a761-4094-9db6-3dae9070c714)
+![image](https://github.com/EgeEken/AI-PaintWars/assets/96302110/aed07beb-1284-4b6f-b516-52265517f860)
+![image](https://github.com/EgeEken/AI-PaintWars/assets/96302110/598b38da-9b22-449b-b8ce-dec0c4b35366)
+
+</p>
+</details>
+
 ## [Minecraft Player](https://github.com/EgeEken/Minecraft-Player)
 An AI program that can be trained to play Minecraft in real time.
 
