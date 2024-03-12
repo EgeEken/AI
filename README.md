@@ -13,6 +13,17 @@ Weights and biases for a 2 layer neural network model and a 3 layer deep neural 
 </p>
 </details>
 
+## [Image Upscaler](https://github.com/EgeEken/Image-Upscaler)
+A website (built with Flask) that upscales given images using Hugging Face transformer models
+
+<details><summary>Results: (click here to open)</summary>
+<p>
+
+![Image Upscaler (1mb) (2)](https://github.com/EgeEken/Image-Upscaler/assets/96302110/13e3f3d7-2bfe-45b6-beaa-47eb3d3012cc)
+
+</p>
+</details>
+
 ## [Image Generator](https://github.com/EgeEken/Image-Generator)
 An AI program that can be trained to take sketches as inputs and generate photographs of them.
 
